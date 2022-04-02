@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.example-card{
+    border-radius: 50px;
+    width: 300px;
+}
+img{
+    border-radius: 50px;
+}
